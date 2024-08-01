@@ -1,4 +1,4 @@
-const form = document.querySelector('.contact-form')
+const form = document.querySelector('#contact-form')
 const successMessage = document.querySelector('#success-message')
 
 
